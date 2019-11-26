@@ -1,0 +1,2 @@
+# IQSoftTest
+Competition for IQSoft
